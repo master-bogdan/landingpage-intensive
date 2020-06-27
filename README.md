@@ -1,2 +1,2 @@
 # landingpage-intensive
-Landing page
+Training Landing page
